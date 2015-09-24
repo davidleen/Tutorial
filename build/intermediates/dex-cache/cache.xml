@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\projects\github\Tutorial\testloop\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\projects\github\Tutorial\testloop\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-29a75f2ceb7e615c48ea108625089c2b7c006103.jar" />
+    </item>
+    <item
+        jar="E:\Program Files\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\projects\github\Tutorial\testloop\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-819888ac5c491d8d83bd86543e9dd63b60e25c05.jar" />
+    </item>
+    <item
+        jar="E:\projects\github\Tutorial\testloop\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\projects\github\Tutorial\testloop\build\intermediates\pre-dexed\debug\classes-0a86b5d06ac6f9aaf91b257ebb44d84b6b652ebf.jar" />
+    </item>
+    <item
+        jar="E:\projects\github\Tutorial\testloop\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\projects\github\Tutorial\testloop\build\intermediates\pre-dexed\debug\classes-4cb49016298d6810a9f59f2c4f79f4d28b30bb76.jar" />
+    </item>
+
+</items>

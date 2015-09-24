@@ -1,0 +1,1 @@
+include ':app', ':testrxandroid', ':testasynctask', ':testloop'
